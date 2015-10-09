@@ -7,4 +7,4 @@
 # All rights reserved - Do Not Redistribute
 #
 
-ruby_install_ruby 'ruby 2.1.6'
+ruby_install_ruby 'ruby 2.2'
